@@ -34,7 +34,7 @@
 
 
    ## Sticky Sessions(Session 선호도)
-   > 로드밸런싱을 통해 인스턴스로 redirect될때, 항상 같은 instance로 가는 기능
+   > 로드밸런싱을 통해 instance로 redirect될때, 항상 같은 instance로 가는 기능
    - ALB, NLB에서 가능
    - 쿠키🍪 사용
    - 이걸 허용하면, 밸런스 문제가 생길수도
